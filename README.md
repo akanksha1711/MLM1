@@ -1,6 +1,6 @@
 # MLM1
 
-Clustering Analysis by K-means & OPTICS with Comparative Analysis of both methods on the Data set of Salaries of employees.
+Clustering Analysis by K-means & OPTICS with Comparative Analysis of both methods on the Data set of Salaries of San Frasisco city employees.
 
 Acknowledgments-:
 
